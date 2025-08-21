@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanish Kunthe</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Embedded+Software+Engineer;IoT+Solutions;Microcontroller+Programmer;Embedded+Firmware+Developer" alt="Typing SVG" />
+</p>
 
-<!--
-**TanishKunthe/TanishKunthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working as **Embedded Firmware Developer** at **E-ARTKEY Innovation**
+- 🌱 Learning **Driver Development, Advanced RTOS Implementation** and **Linux Kernel Tools**
+- 💬 Skills **C/C++, FreeRTOS, ESP32, STM32, IoT Development**
+- 📫 Reach me: **t.d.kunthe@gmail.com**
+
+### 🛠️ Tech Stack
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://p7.hiclipart.com/preview/749/858/550/5bbc11df88741.jpg" alt="platform.io" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" alt="FreeRTOS" width="60" height="40"/>
+</p>
+
+**Specialties:** `Microcontrollers` • `IoT Development` • `FreeRTOS` • `I2C/SPI/UART` • `WiFi/LoRa/BLE`
+
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/tanishkunthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishkunthe" height="30" width="40" /></a>
+<a href="mailto:t.d.kunthe@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/250px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" /></a>
+</p>
+
+---
