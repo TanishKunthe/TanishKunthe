@@ -21,8 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://p7.hiclipart.com/preview/749/858/550/5bbc11df88741.jpg" alt="platform.io" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" alt="FreeRTOS" width="60" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" alt="platform.io" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="FreeRTOS" width="60" height="40"/>
 </p>
 
 **Specialties:** `Microcontrollers` • `IoT Development` • `FreeRTOS` • `I2C/SPI/UART` • `WiFi/LoRa/BLE`
