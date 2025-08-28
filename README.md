@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanish Kunthe</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Embedded+Software+Engineer;IoT+Solutions;Microcontroller+Programmer;Embedded+Firmware+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Embedded+Software+Engineer;IoT+Solutions;Microcontroller;Embedded+Firmware+Developer" alt="Typing SVG" />
 </p>
 
 ---
